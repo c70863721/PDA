@@ -1,0 +1,11 @@
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\bin\Debug\TsmtWareHouse.exe
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\bin\Debug\TsmtWareHouse.pdb
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.Login.resources
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.Properties.Resources.resources
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.UI.Main.resources
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.csproj.GenerateResource.Cache
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.exe
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.pdb
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.FaLiao.resources
+D:\PDA\TsmtWareHouse\SmartDeviceProject2\obj\Debug\TsmtWareHouse.UI.InputBox.resources
